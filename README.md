@@ -1,5 +1,5 @@
 # ECG Capstone Project
-Here's a simple and clean `README.md` you can include with your GitHub repository:
+
 
 ---
 
