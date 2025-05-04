@@ -25,9 +25,9 @@ This project compares two deep learning models with a traditional machine learni
 
 | Model     | Accuracy | F1 Score | AUROC  |
 |-----------|----------|----------|--------|
-| **KNN**   | 0.922    | 0.911    | 0.9611 |
-| **CNN**   | 0.872    | 0.834    | 0.9502 |
-| **ResNet**| 0.891    | 0.851    | 0.9656 |
+| KNN   | 0.922    | 0.911    | 0.9611 |
+| CNN   | 0.872    | 0.834    | 0.9502 |
+| ResNet| 0.891    | 0.851    | 0.9656 |
 
 ##  Requirements
 
